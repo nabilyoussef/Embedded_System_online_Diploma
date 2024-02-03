@@ -1,0 +1,12 @@
+Micro-Processor: 
+	- gengeral purpose processor
+Micro-Controller:
+	- has a specific purpose CPU
+Embedded systems:
+	- electrical or electromechanical sysyem
+	controlled by uc
+mechatronic systems:
+	- has mechanical parts that are integrated 
+	with uc
+n-bit processor:
+	- works on n-bit data at a time
