@@ -1,0 +1,31 @@
+Q1- 
+Micro-Processor: 
+	- gengeral purpose processor
+Micro-Controller:
+	- has a specific purpose CPU
+Embedded systems:
+	- electrical or electromechanical sysyem
+	controlled by uc
+mechatronic systems:
+	- has mechanical parts that are integrated 
+	with uc
+n-bit processor:
+	- works on n-bit data at a time
+=====================================================
+Q2- Compare 
+	Micro processor 	Micro controller 
+	- general purpose	- specific purpose
+				and has uP inside
+	- no ram, no rom 	- fixed amount Rom
+=====================================================
+Q3- 
+Van-Neuman: single bus fetches and one memory for both 
+	1- program instructions
+	2- data
+Harvard architecture: separate memory for each
+and two different paths
+=====================================================
+Q4- 
+- PROM ( programable ROM )
+- EPROM ( Erasable programmmable ROM)
+
