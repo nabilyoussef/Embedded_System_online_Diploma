@@ -10,7 +10,7 @@ int main(void)
     {
         for (j = 0; j <2; j++)
         {
-            printf("\nfor array 1, Enter array1[%d][%d]:", i, j);
+            printf("\nfor array 1, Enter array1[%d][%d]:", i+1, j+1);
             scanf("%d", &arr1[i][j]);
         }
     }
@@ -20,7 +20,7 @@ int main(void)
     {
         for (j = 0; j < 2; j++)
         {
-            printf("\nfor array 2, Enter array1[%d][%d]:", i, j);
+            printf("\nfor array 2, Enter array1[%d][%d]:", i+1, j+1);
             scanf("%d", &arr2[i][j]);
         }
     }
